@@ -25,8 +25,8 @@ const appRoutes: Routes = [
 ]
 @NgModule({
   declarations: [
-    AppComponent,StudentComponent,ClassesComponent,HomeComponent,CategoryComponent,ProductComponent,LoginComponent,RegisterComponent
-    ,SearchComponent
+    AppComponent,StudentComponent,ClassesComponent,HomeComponent,CategoryComponent,ProductComponent,LoginComponent,
+    RegisterComponent,SearchComponent
   ],
   imports: [
     BrowserModule,
